@@ -8,9 +8,6 @@ As a graphic designer, I will always have a soft spot for design. The space betw
 - 32 years old :angel:
 - always running late :runner:
 
-Peace out!
-<iframe src="https://giphy.com/embed/IwTWTsUzmIicM" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 <!--
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sofia **cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
