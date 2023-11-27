@@ -1,14 +1,13 @@
-## Hi there 👋 welcome to my page 
-<h2> ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-  
-I’m new hier! 🌱
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sofia 
 
-what I like:
-- First item
-- Second item
-- Third item
+I currently [doing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+a Webdeveloper Bootcamp at Spiced acedemy! 
+As a graphic designer, I will always have a soft spot for design. The space between development and design is the place that interests me the most.
 
-[cat](https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>)
+- born in Münster, living in Berlin
+- 32 years old
+- always running late
+
 
 <!--
 **cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
