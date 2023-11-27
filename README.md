@@ -1,4 +1,5 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sofia 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hey+there+I+am+Sofia)](https://git.io/typing-svg)
+
 
 I currently [doing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 a Webdeveloper Bootcamp at Spiced acedemy! 
@@ -10,7 +11,7 @@ As a graphic designer, I will always have a soft spot for design. The space betw
 
 
 <!--
-**cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sofia **cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
