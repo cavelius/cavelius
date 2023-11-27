@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=000000&random=false&width=435&height=30&lines=Hi+there+I+am+Sofia)](https://git.io/typing-svg)
 
-I currently doing a [web development](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+I currently doing a [web development](https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp)
 bootcamp at Spiced Academy <br>
 As a graphic designer, I will always have a soft spot for design. The space between development and design <br> is the place that interests me the most.
 
