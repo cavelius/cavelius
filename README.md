@@ -1,14 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hey+there+I+am+Sofia)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=000000&random=false&width=435&height=30&lines=Hi+there+I+am+Sofia)](https://git.io/typing-svg)
 
 I currently [doing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-a Webdeveloper Bootcamp at Spiced acedemy! 
-As a graphic designer, I will always have a soft spot for design. The space between development and design is the place that interests me the most.
+a Webdeveloper Bootcamp at Spiced Academy <br>
+As a graphic designer, I will always have a soft spot for design. The space between development and design <br> is the place that interests me the most.
 
-- born in Münster, living in Berlin
-- 32 years old
-- always running late
-
+- born in Münster, living in Berlin :round_pushpin:
+- 32 years old :angel:
+- always running late :runner:
 
 <!--
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sofia **cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
