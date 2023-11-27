@@ -2,6 +2,12 @@
 
 I’m currently working on something cool! 🌱
 
+- First item
+- Second item
+- Third item
+
+
+
 <!--
 **cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
