@@ -1,12 +1,13 @@
 ## Hi there 👋 welcome to my page 
 
-I’m currently working on something cool! 🌱
+I’m new hier! 🌱
 
+what I like:
 - First item
 - Second item
 - Third item
 
-[cat keyboard](<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>)
+[cat](https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>)
 
 <!--
 **cavelius/cavelius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
