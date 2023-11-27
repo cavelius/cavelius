@@ -1,5 +1,4 @@
-### Hi there 👋
-## welcome to my page 
+## Hi there 👋 welcome to my page 
 
 I’m currently working on something cool! 🌱
 
